@@ -1,0 +1,14 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen### Node template
+
+# Optional npm cache directory
+.npm
+
+# Dependency directories
+node_modules/
+
+# Optional eslint cache
+.eslintcache
