@@ -1,0 +1,9 @@
+{
+  "username": "root",
+  "password": "password",
+  "database": "xim_database",
+  "host": "127.0.0.1",
+  "dialect": "mysql",
+  "jwtSecret": "secret",
+  "fileMaxSize": 512000000
+}
